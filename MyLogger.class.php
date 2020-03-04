@@ -1,5 +1,4 @@
 <?php
-//`warning`, `error`, `info`, `debug`
 class MyLogger
 {
     public function log($message, $level)
